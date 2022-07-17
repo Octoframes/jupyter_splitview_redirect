@@ -128,4 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-splitview_redirect_env/
+splitview_re_env/
+poetry.lock
